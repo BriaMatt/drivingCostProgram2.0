@@ -1,3 +1,9 @@
 Function Main() returns nothing
   integer array{2} milesPerGallon
 integer distance1
+
+
+Function Main() returns nothing
+  integer milesPerGallon
+  integer distance1 
+//Corrected code
